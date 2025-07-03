@@ -12,20 +12,28 @@ const Contact = () => {
         </p>
         <ul className="text-purple-900 text-md leading-loose">
           <li>
-            <strong>Email:</strong> yourname@example.com
+            <strong>Email:</strong> suriyavelmariappan@gmail.com
           </li>
           <li>
-            <strong>Phone:</strong> +1-234-567-890
-          </li>
-          <li>
-            <strong>LinkedIn:</strong>{' '}
+            <strong>GitHub:</strong>{' '}
             <a
-              href="https://www.linkedin.com/in/yourprofile"
+              href="https://github.com/Suriya-MSV"
               target="_blank"
               rel="noopener noreferrer"
               className="text-purple-700 hover:underline"
             >
-              linkedin.com/in/yourprofile
+            github.com/Suriya-MSV
+            </a>
+          </li>
+          <li>
+            <strong>LinkedIn:</strong>{' '}
+            <a
+              href="https://www.linkedin.com/in/suriyavel-mariappan-211363277/"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-purple-700 hover:underline"
+            >
+              linkedin.com/in/suriyavel-mariappan
             </a>
           </li>
         </ul>
