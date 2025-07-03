@@ -12,10 +12,10 @@ const Home = () => {
     <div className="flex justify-center items-center h-[calc(100vh-64px)] bg-purple-100">
       <div className="md:w-[50%] md:h-[70%] flex items-center flex-col gap-10 w-[90%] h-auto p-10 bg-purple-200 rounded-3xl shadow-xl transform transition duration-500 hover:scale-105">
         <h1 className="text-4xl font-extrabold text-purple-800 tracking-wide text-center">
-           Welcome to SimplifAI – Where Curiosity Meets Simplicity!
+           Let’s Start Learning with SimplifAI!
         </h1>
         <p className="text-purple-900 text-justify md:text-lg text-md leading-relaxed px-4">
-          Do you ever wonder why the sky is blue, how birds fly, or what makes rainbows so colorful? At SimplifAI, we believe that every curious question deserves a clear and easy answer.
+          Hey there, explorer!Are you ready to find answers to all the amazing questions in your mind? With SimplifAI, learning is as easy as asking! Just type your question — big or small — and our smart AI will explain it to you in a simple and fun way.
         </p>
         <button
           onClick={handleStartClick}
