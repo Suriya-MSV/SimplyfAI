@@ -15,7 +15,7 @@ const Home = () => {
            Let’s Start Learning with SimplifAI!
         </h1>
         <p className="text-purple-900 text-justify md:text-lg text-md leading-relaxed px-4">
-          Hey there, explorer!Are you ready to find answers to all the amazing questions in your mind? With SimplifAI, learning is as easy as asking! Just type your question — big or small — and our smart AI will explain it to you in a simple and fun way.
+          Hey there, explorer! Are you ready to find answers to all the amazing questions in your mind? With SimplifAI, learning is as easy as asking! Just type your question — big or small — and our smart AI will explain it to you in a simple and fun way.
         </p>
         <button
           onClick={handleStartClick}

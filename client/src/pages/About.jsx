@@ -9,7 +9,7 @@ const About = () => {
             About SimplyfAI
           </h1>
           <p className="text-purple-900 text-justify md:text-lg text-md leading-relaxed">
-            SimplifAI is a smart and friendly website made especially for kids who are full of questions! We know that children are naturally curious — always asking why, how, and what if. But sometimes, the answers they find are too hard to understand. That’s where SimplifAI comes in! SimplifAI is a special website powered by Artificial Intelligence (AI) that gives easy-to-understand answers to your questions. It’s like talking to a helpful robot teacher who explains things in a way kids can truly understand.
+            SimplifAI is a smart and friendly website made especially for kids who are full of questions! We know that children are naturally curious — always asking why, how, and what if. But sometimes, the answers they find are too hard to understand. That’s where SimplifAI comes in! SimplifAI is a special website powered by Artificial Intelligence(AI) that gives easy-to-understand answers to your questions. It’s like talking to a helpful robot teacher who explains things in a way kids can truly understand.
           </p>
         </div>
       </div>
