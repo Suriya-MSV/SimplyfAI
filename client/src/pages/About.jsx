@@ -9,7 +9,7 @@ const About = () => {
             About SimplyfAI
           </h1>
           <p className="text-purple-900 text-justify md:text-lg text-md leading-relaxed">
-            SimplyfAI helps people who cannot read or write English well. You can ask anything in simple words. Unschooled will give you easy answers. No big words. No difficult grammar. Just help — step by step. You do not need to know much English. You do not need to type perfectly. Just try. Unschooled understands you. It is made for you. It is like a kind friend. It explains slowly and clearly. You can ask about anything — work, school, health, stories, or news. It is free to use. No ads. No tricks. Just learning. I made this so everyone can learn — even if reading is hard. You are smart. You can learn. Unschooled is here for you. Thank you for using it. Let us learn together.
+            SimplifAI is a smart and friendly website made especially for kids who are full of questions! We know that children are naturally curious — always asking why, how, and what if. But sometimes, the answers they find are too hard to understand. That’s where SimplifAI comes in! SimplifAI is a special website powered by Artificial Intelligence (AI) that gives easy-to-understand answers to your questions. It’s like talking to a helpful robot teacher who explains things in a way kids can truly understand.
           </p>
         </div>
       </div>
