@@ -1,0 +1,1282 @@
+[
+    {
+        "prompt": "Why do snakes stick out their tongues?",
+        "response": "Snakes use their tongues to smell the air and find food or sense danger around them."
+    },
+    {
+        "prompt": "What is the tallest mountain in the world?",
+        "response": "Mount Everest is the tallest mountain on Earth. It is located in the Himalayas."
+    },
+    {
+        "prompt": "How do frogs jump so high?",
+        "response": "Frogs have strong back legs that help them jump far and escape from predators quickly."
+    },
+    {
+        "prompt": "Why do stars twinkle?",
+        "response": "Stars twinkle because the light passes through moving air in the sky before reaching our eyes."
+    },
+    {
+        "prompt": "What is a shooting star?",
+        "response": "A shooting star is a small rock from space that burns up in the sky as it falls."
+    },
+    {
+        "prompt": "Why do we have belly buttons?",
+        "response": "Belly buttons are what\u2019s left from where the umbilical cord was attached when we were babies."
+    },
+    {
+        "prompt": "What does a firefighter do?",
+        "response": "Firefighters put out fires, help in emergencies, and rescue people from dangerous places."
+    },
+    {
+        "prompt": "How do chameleons change color?",
+        "response": "Chameleons can change color by moving tiny cells in their skin that reflect different kinds of light."
+    },
+    {
+        "prompt": "What is chocolate made from?",
+        "response": "Chocolate is made from cocoa beans that grow on trees in warm places."
+    },
+    {
+        "prompt": "Why do we need to drink water?",
+        "response": "Water helps our body stay cool, clean, and working well. It keeps us alive and healthy."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #2)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #2)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #2)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #2)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #2)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #2)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #2)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #2)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #2)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #2)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #3)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #3)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #3)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #3)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #3)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #3)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #3)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #3)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #3)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #3)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #4)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #4)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #4)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #4)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #4)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #4)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #4)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #4)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #4)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #4)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #5)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #5)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #5)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #5)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #5)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #5)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #5)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #5)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #5)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #5)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #6)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #6)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #6)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #6)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #6)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #6)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #6)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #6)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #6)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #6)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #7)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #7)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #7)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #7)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #7)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #7)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #7)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #7)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #7)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #7)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #8)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #8)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #8)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #8)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #8)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #8)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #8)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #8)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #8)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #8)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #9)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #9)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #9)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #9)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #9)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #9)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #9)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #9)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #9)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #9)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #10)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #10)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #10)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #10)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #10)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #10)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #10)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #10)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #10)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #10)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #11)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #11)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #11)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #11)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #11)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #11)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #11)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #11)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #11)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #11)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #12)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #12)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #12)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #12)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #12)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #12)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #12)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #12)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #12)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #12)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #13)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #13)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #13)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #13)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #13)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #13)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #13)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #13)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #13)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #13)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #14)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #14)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #14)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #14)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #14)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #14)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #14)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #14)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #14)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #14)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #15)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #15)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #15)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #15)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #15)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #15)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #15)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #15)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #15)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #15)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #16)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #16)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #16)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #16)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #16)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #16)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #16)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #16)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #16)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #16)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #17)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #17)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #17)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #17)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #17)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #17)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #17)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #17)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #17)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #17)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #18)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #18)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #18)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #18)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #18)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #18)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #18)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #18)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #18)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #18)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #19)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #19)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #19)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #19)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #19)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #19)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #19)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #19)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #19)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #19)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #20)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #20)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #20)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #20)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #20)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #20)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #20)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #20)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #20)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #20)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #21)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #21)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #21)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #21)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #21)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #21)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #21)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #21)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #21)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #21)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #22)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #22)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #22)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #22)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #22)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #22)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #22)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #22)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #22)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #22)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #23)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #23)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #23)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #23)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #23)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #23)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #23)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #23)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #23)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #23)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #24)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #24)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #24)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #24)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #24)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #24)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #24)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #24)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #24)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #24)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #25)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #25)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #25)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #25)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #25)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #25)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #25)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #25)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #25)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #25)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #26)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #26)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #26)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #26)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #26)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #26)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #26)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #26)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #26)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #26)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #27)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #27)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #27)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #27)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #27)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #27)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #27)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #27)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #27)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #27)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #28)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #28)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #28)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #28)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #28)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #28)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #28)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #28)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #28)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #28)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #29)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #29)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #29)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #29)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #29)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #29)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #29)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #29)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #29)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #29)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "What makes popcorn pop (fact #30)?",
+        "response": "Popcorn kernels pop when they get hot because steam builds up inside and bursts the shell."
+    },
+    {
+        "prompt": "Why do elephants have big ears (fact #30)?",
+        "response": "Elephants use their big ears to stay cool and to hear sounds from far away."
+    },
+    {
+        "prompt": "How do birds know where to fly (fact #30)?",
+        "response": "Birds use the sun, stars, and Earth's magnetic field to guide them during migration."
+    },
+    {
+        "prompt": "Why do boats float (fact #30)?",
+        "response": "Boats float because their shape spreads weight over water and pushes down less than the water pushes up."
+    },
+    {
+        "prompt": "What is inside a computer (fact #30)?",
+        "response": "A computer has tiny parts like a brain (CPU), memory, and a place to keep files (storage)."
+    },
+    {
+        "prompt": "What causes earthquakes (fact #30)?",
+        "response": "Earthquakes happen when parts of the Earth\u2019s crust suddenly move or shift."
+    },
+    {
+        "prompt": "How does a clock work (fact #30)?",
+        "response": "A clock uses gears and power from batteries or springs to move hands and show time."
+    },
+    {
+        "prompt": "Why do some animals live in groups (fact #30)?",
+        "response": "Animals live in groups to stay safe, find food, and take care of each other."
+    },
+    {
+        "prompt": "What is a robot (fact #30)?",
+        "response": "A robot is a machine that can do tasks, sometimes by itself and sometimes with help from people."
+    },
+    {
+        "prompt": "What is the sun made of (fact #30)?",
+        "response": "The sun is made of very hot gases, mostly hydrogen and helium, and gives us light and heat."
+    },
+    {
+        "prompt": "Why is the sky blue?",
+        "response": "The sky looks blue because sunlight scatters in the air, and blue light scatters more than the other colors."
+    },
+    {
+        "prompt": "How do birds fly?",
+        "response": "Birds flap their wings and use the air around them to lift off and glide through the sky."
+    },
+    {
+        "prompt": "Why do we need to brush our teeth?",
+        "response": "Brushing cleans our teeth, removes germs, and keeps our mouth healthy and fresh."
+    },
+    {
+        "prompt": "What is the moon made of?",
+        "response": "The moon is made of rock and dust. It has mountains, craters, and flat plains."
+    },
+    {
+        "prompt": "Why do cats purr?",
+        "response": "Cats purr when they're happy, relaxed, or sometimes when they're healing from pain or injury."
+    },
+    {
+        "prompt": "How does a rainbow form?",
+        "response": "Rainbows form when sunlight shines through raindrops and bends, showing many colors."
+    },
+    {
+        "prompt": "What do bees do?",
+        "response": "Bees collect nectar from flowers and make honey. They also help plants grow by spreading pollen."
+    },
+    {
+        "prompt": "Why do we sleep?",
+        "response": "We sleep to help our bodies and brains rest, grow, and stay healthy."
+    },
+    {
+        "prompt": "How do fish breathe?",
+        "response": "Fish use gills to take in oxygen from the water so they can breathe underwater."
+    },
+    {
+        "prompt": "What is electricity?",
+        "response": "Electricity is energy that powers things like lights, TVs, and computers. It flows through wires."
+    },
+    {
+        "prompt": "How do plants eat?",
+        "response": "Plants use sunlight, water, and air to make their own food in a process called photosynthesis."
+    },
+    {
+        "prompt": "Why do we get sick?",
+        "response": "We get sick when germs enter our body and our immune system fights to make us better."
+    },
+    {
+        "prompt": "What is a volcano?",
+        "response": "A volcano is a mountain that can erupt with hot lava, ash, and gases from inside the Earth."
+    },
+    {
+        "prompt": "Why does ice melt?",
+        "response": "Ice melts when it gets warm because heat makes the frozen water turn into liquid."
+    },
+    {
+        "prompt": "What are stars made of?",
+        "response": "Stars are big balls of hot gases, mostly hydrogen and helium, that shine brightly in space."
+    },
+    {
+        "prompt": "Why do dogs wag their tails?",
+        "response": "Dogs wag their tails to show they are happy, excited, or sometimes nervous."
+    },
+    {
+        "prompt": "How do magnets work?",
+        "response": "Magnets attract certain metals using an invisible force called magnetism."
+    },
+    {
+        "prompt": "What do astronauts do?",
+        "response": "Astronauts travel to space to learn about planets, stars, and how things work in space."
+    },
+    {
+        "prompt": "Why do leaves change color?",
+        "response": "Leaves change color in autumn because trees stop making green chlorophyll and other colors show up."
+    },
+    {
+        "prompt": "What causes thunder?",
+        "response": "Thunder is the sound made when lightning heats the air and it expands very fast."
+    }
+]
