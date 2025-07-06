@@ -1,5 +1,5 @@
 @echo off
-echo Starting Unschooled App...
+echo Starting SimplyfAI App...
 
 REM
 start cmd /k "cd server && npm install && node server.js"
