@@ -26,7 +26,7 @@ app.post('/api/search', async (req, res) => {
         // const generatedAnswer = fastapiRes.data.response;
 
         const fastapiRes = await axios.post(
-                    "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=AIzaSyAOboILbl-X4HtDlgJ_I5CM5q6mrY56608",
+                    "https://generativelanguage.googleapis.com/v1beta/models/gemini-pro:generateContent?key=GEMINI_API_KEY",
                     {
                       contents: [{ parts: [{ text: userQuestion }] }]
                     }
